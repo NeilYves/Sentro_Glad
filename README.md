@@ -1,6 +1,6 @@
-# Enhanced Barangay Management Dashboard
+Sentro Glad
 
-A modern, responsive dashboard for Barangay management with an appealing UI design.
+SentroGlad: Centralized Barangay Registry Information System with Message Blast is a web-based application specifically designed to address the persistent data management and communication challenges faced by Barangay Central Glad. Developed using PHP for backend operations and MySQL for database management, the system ensures secure data storage, accurate recordkeeping, and reliable resident profiling. It requires an internet connection to operate and uses an API to send SMS-based message blasts, enabling barangay officials to disseminate announcements, advisories, and emergency notifications directly to residents’ mobile phones. By streamlining document processing and enhancing communication, SentroGlad improves administrative efficiency and public service accessibility.
 
 ## Features
 
