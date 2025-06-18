@@ -9,6 +9,7 @@ Frontend:
   . JavaScript (basic interaction)
 
 Backend:
+
   . PHP 8.3.22
   . MySQL (XAMPP for local development)
 
