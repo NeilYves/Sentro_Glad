@@ -4,38 +4,40 @@ SentroGlad: Centralized Barangay Registry Information System with Message Blast 
 
 Technology Stack
 
-### :
 
-```markdown
-#### Infobip
 Frontend:
+```markdown
 
   . HTML5, CSS3
   
   . Bootstrap 5
   
   . JavaScript (basic interaction)
+```
 
 Backend:
-
+```markdown
   . PHP 8.3.22
   . MySQL (XAMPP for local development)
-
+```
 Tools:
-
+```
   . XAMPP (Apache + MySQL)
   . Sublime Text 3
   . phpMyAdmin
-
+```
 Setup Instructions
 
 Clone or Download Repository
+```
 https://github.com/NeilYves/Sentro_Glad.git
-                        
+```                       
 Run the System
-Open your browser and go to:
-        https://localhost/Sentro_Glad/
 
+Open your browser and go to:
+```
+        https://localhost/Sentro_Glad/
+```
 Move the Folder to XAMPP Directory
 	. Copy the project folder to C:\xampp\htdocs\
 	. Import the Database
