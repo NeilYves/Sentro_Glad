@@ -22,6 +22,10 @@ Setup Instructions
 Clone or Download Repository
 https://github.com/NeilYves/Sentro_Glad.git
 
+Run the System
+Open your browser and go to:
+        https://localhost/Sentro_Glad/
+
 Move the Folder to XAMPP Directory
 	. Copy the project folder to C:\xampp\htdocs\
 	. Import the Database
